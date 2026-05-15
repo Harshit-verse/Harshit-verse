@@ -1,4 +1,4 @@
-# Readme
+
        
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Harshit%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
@@ -9,7 +9,7 @@
 <h1 align="center">Hey 👋, I'm Harshit</h1>
 
 <p align="center">
-  <b>💻 Full Stack Developer</b> • <b>🧠 DSA Enthusiast</b> • <b>🚀 Future AI Engineer</b>
+  <b>💻 Full Stack Developer</b> • <b>🧠 Backend Devloper</b> • <b>🚀 Future AI Engineer</b>
 </p>
 
 <p align="center">
@@ -24,19 +24,21 @@
 
 ---
 
-## 🚀 About Me
+#### 🚀 About Me
 
-- 🎓 B.Tech CSE @ Amity University, Lucknow  
-- 💻 Full Stack + DSA grind mode  
-- 🤖 Exploring AI/ML  
-- ⚡ Building practical, scalable projects  
+- 🎓 Computer Science undergraduate at Amity University, Lucknow  
+- 💻 Full Stack Developer with strong interest in Backend Engineering  
+- 🧠 DSA enthusiast focused on problem solving and optimization  
+- 🤖 Exploring AI/ML, scalable systems, and modern web technologies  
+- ⚡ Building practical projects that combine clean UI with solid architecture  
+- 🚀 Driven by continuous learning and real-world impact
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next,nodejs,express,mongodb,MuSQL,java,cpp,vercel,render,postman,git,github,vscode" />
 </p>
 
 ---
@@ -95,7 +97,7 @@
 
 ## ✨ Dev Mindset
 
-> "Consistency beats everything."
+> "Code. Break. Debug. Learn. Repeat."
 
 ---
 
